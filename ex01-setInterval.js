@@ -5,4 +5,4 @@ var t = setInterval(function() {
   if (i === 3) {
     clearInterval(t)
   }
-}, 1000)
+}, 500)
